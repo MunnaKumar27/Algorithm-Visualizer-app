@@ -1,4 +1,5 @@
 # Algorithm-Visualizer-app
+### Algorithm Visualizer is an interactive online platform that visualizes algorithms from code. This is a website which i have created using ReactJs , JavaScript .
 # [Link to See live](https://alorithm-visualizer.netlify.app/)
 # Screenshots 0n different screen size
 ![image](https://user-images.githubusercontent.com/96313339/175776156-dbbad9c8-60f4-49ba-8c63-e0050a45aff1.png)  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
